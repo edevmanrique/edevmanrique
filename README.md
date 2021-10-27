@@ -1,7 +1,7 @@
 ### Hey! Nice to have you here 👋 Welcome to my repository.
 [![Twitter Follow](https://img.shields.io/twitter/follow/edimanrique01?color=1DA1F2&label=%40Edimanrique01&logo=twitter&style=for-the-badge)](https://twitter.com/Edimanrique01)
 
-<img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47lrbw4hkzc2r62lbjvikg36q59vbbq2lssj14v4ul&rid=giphy.gif&ct=g">
+<img src="https://media2.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif?cid=ecf05e47btdii39cgn1acxpw2dhmaypu70qrlinccxag7pdm&rid=giphy.gif&ct=g">
 
 Here are some ideas to get you started:
 
