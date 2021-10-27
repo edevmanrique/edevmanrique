@@ -14,5 +14,5 @@
 
 ### My superpowers
 
-<img align="left" alt="HTML" width = "40px" src = "https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" alt="HTML" width = "60px" src = "https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 
