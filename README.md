@@ -19,3 +19,11 @@
 <img align="left" alt="CSS" width = "60px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 <img align="left" alt="JS" width = "60px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+
+<img align="left" alt="MySQL" width = "60px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+
+<img align="left" alt="MySQL" width = "60px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+
+<img align="left" alt="SQL Server" width = "60px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+
+<img align="left" alt="Git" width = "60px" src="https://img.icons8.com/color/48/000000/git.png"/>
