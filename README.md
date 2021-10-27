@@ -16,3 +16,6 @@
 
 <img align="left" alt="HTML" width = "60px" src = "https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 
+<img align="left" alt="CSS" width = "60px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+
+<img align="left" alt="JS" width = "60px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
