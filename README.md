@@ -1,5 +1,5 @@
 ### Hey! Nice to have you here 👋 Welcome to my repository.
-[![Twitter Follow](https://img.shields.io/twitter/follow/edimanrique01?color=1DA1F2&label=%40Edimanrique01&logo=twitter&style=for-the-badge)](https://twitter.com/Edimanrique01)
+[![Twitter Follow](https://img.shields.io/twitter/follow/edmanriquer?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/edmanriquer)
 
 <img src="https://media2.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif?cid=ecf05e47btdii39cgn1acxpw2dhmaypu70qrlinccxag7pdm&rid=giphy.gif&ct=g">
 
