@@ -5,9 +5,9 @@
 
 ### Web developer and passionate student
 
-- 📚 I’m currently learning about JavaScript.
-- ✍🏻 My English is not perfect but I try everyday to improve it.
-- 💻 Future Systems (and Software) Engineer.
+- 📚 JS Lover.
+- ✍🏻 B2+ English.
+- 💻 Software Engineer.
 - 💚 Never Stop Learning.
 
 ---
