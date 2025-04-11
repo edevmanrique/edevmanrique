@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Edison%20Manrique&textBg=false&fontAlign=50&animation=fadeIn&rotate=0&desc=Software%20Engineer&section=header&reversal=false)](https://capsule-render.vercel.app)
+
+</div>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
