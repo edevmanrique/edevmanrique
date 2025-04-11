@@ -1,6 +1,6 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=header&text=Danny%20Parrado&fontSize=70&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Edison%20Manrique&textBg=false&fontAlign=50&animation=fadeIn&rotate=0&desc=Software%20Dev&section=header&reversal=false)
+[[![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Edison%20Manrique&textBg=false&fontAlign=50&animation=fadeIn&rotate=0&desc=Software%20Dev&section=header&reversal=false)
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
