@@ -4,11 +4,15 @@
 
 </div>
 
+## My superpowers
+
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+## About Me
 
 It's nice to meet you here! My name is Edison Manrique. I am a software engineer with 1+ years of experience as a Customer Care Agent at SmartSoft, Costa Rica. As a customer care agent, I assist customers by addressing inquiries, resolving complaints, and providing product support. I ensure customer satisfaction through effective communication, problem-solving, and a customer-first approach. This has allowed me to improve my SQL skills.  
 
