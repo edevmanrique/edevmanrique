@@ -16,6 +16,8 @@
 
 It's nice to meet you here! My name is Edison Manrique. I am a software engineer with 1+ years of experience as a Customer Care Agent at SmartSoft, Costa Rica. As a customer care agent, I assist customers by addressing inquiries, resolving complaints, and providing product support. I ensure customer satisfaction through effective communication, problem-solving, and a customer-first approach. This has allowed me to improve my SQL skills.  
 
+## Last changes
+
 ## Contact
 ### Email
 edmanriquer@gmail.com
