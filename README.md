@@ -18,11 +18,6 @@ It's nice to meet you here! My name is Edison Manrique. I am a software engineer
 
 ## Last changes
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [edevmanrique/edevmanrique](https://github.com/edevmanrique/edevmanrique)<br>
-2. ⬆️ Pushed 1 commit(s) to [edevmanrique/edevmanrique](https://github.com/edevmanrique/edevmanrique)<br>
-3. ⬆️ Pushed 1 commit(s) to [edevmanrique/edevmanrique](https://github.com/edevmanrique/edevmanrique)<br>
-4. ⬆️ Pushed 1 commit(s) to [PlatziSchool/.github](https://github.com/PlatziSchool/.github)<br>
-5. 📔 Created new repository [PlatziSchool/.github](https://github.com/PlatziSchool/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 ## Contact
 ### Email
